@@ -1,0 +1,1 @@
+Exercício feito na disciplina de Tests Units usando o pytest
